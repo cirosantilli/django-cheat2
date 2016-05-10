@@ -1,14 +1,19 @@
 # Bibliography
 
+## Tutorials
+
+-   <https://github.com/DjangoGirls/tutorial/> <http://tutorial.djangogirls.org/en/>
+    -   <https://github.com/DjangoGirls/tutorial-extensions/>
+-   <http://www.effectivedjango.com/> 2013
+-   outdated
+    - <http://www.djangobook.com/>
+
+## Examples
+
 -   codingforentrepreneurs. Reasonable examples, but not very complete.
     - post creation under `/posts`
     - <https://github.com/codingforentrepreneurs/try-django-19>
     - <https://github.com/codingforentrepreneurs/Advancing-the-Blog>
--   tutorials
-    -   <https://github.com/DjangoGirls/tutorial/> <http://tutorial.djangogirls.org/en/>
-        -   <https://github.com/DjangoGirls/tutorial-extensions/>
-    -   outdated
-        - <http://www.djangobook.com/>
 
 ## Packages
 
